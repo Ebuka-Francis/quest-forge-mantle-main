@@ -1,0 +1,15 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "contract",
+    "main"
+  ],
+  "parent": {
+    "contract": "main",
+    "main": null
+  },
+  "order": [
+    "main",
+    "contract"
+  ]
+}
